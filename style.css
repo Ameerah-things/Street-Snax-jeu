@@ -1,0 +1,43 @@
+#reviews {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #c9c9c9;
+}
+.Stars {
+  padding-bottom: 20px;
+}
+
+#navbar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#logo {
+  background-color: #252a37;
+}
+.About {
+  background-color: #c9c9c9;
+}
+.text {
+  padding: 30px;
+}
+.Image {
+  margin-left: 30px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  border-radius: 100%;
+}
+#Contact-us {
+  padding-top: 20px;
+}
+#Text-1 {
+  font-size: 70px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+#card {
+  padding: 10px;
+}
+#Drinks, #appetizers, #Main-course, #Desserts {
+  margin: 20px;
+}
